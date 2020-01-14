@@ -3,4 +3,4 @@ JS driven animation based on canvas element functionality, following tutorials w
 
 Note: Keep the project file structure
 
-You can preview this project here: https://fipie.github.io/circularMotion/
+You can preview this project [here](https://fipie.github.io/circularMotion/)
